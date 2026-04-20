@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463085592208",
+    "project_id": "ala-ainy",
+    "storage_bucket": "ala-ainy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463085592208:android:7c11fe3b22d9242f7c4215",
+        "android_client_info": {
+          "package_name": "com.alaainy.ala_ainy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMVLMHiftxL0CAus4OxSMEPbMkfabzSK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
